@@ -8,3 +8,4 @@
 
 *Devoir 5 : Vérification si une lettre est une voyelle ou une consonne
 
+*Devoir 6 : calculatrice
