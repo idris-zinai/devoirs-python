@@ -9,3 +9,11 @@
 *Devoir 5 : Vérification si une lettre est une voyelle ou une consonne
 
 *Devoir 6 : calculatrice
+
+*Devoir 7 : somme des N premiers nombres
+
+*Devoir 8 : Password checker
+
+*Devoir 9 : Vowel counter
+
+*Devoir 10 : Jeu Pierre-Feuille-Ciseaux (version deux joueurs) le premier à 3 gagne
