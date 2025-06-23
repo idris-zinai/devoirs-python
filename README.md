@@ -17,3 +17,11 @@
 *Devoir 9 : Vowel counter
 
 *Devoir 10 : Jeu Pierre-Feuille-Ciseaux (version deux joueurs) le premier à 3 gagne
+
+*Devoir 11 : fonction nombre premier
+
+*Devoir 12 : fonction factoriel
+
+*Devoir 13 : fonction premier factoriel
+
+*Devoir 14 : calculatrice avancée
