@@ -25,3 +25,10 @@
 *Devoir 13 : fonction premier factoriel
 
 *Devoir 14 : calculatrice avancée
+
+*Devoir 15 : temperature logger
+
+*Devoir 16 : even number filter function
+
+*Devoir 17 : slice reporter
+
