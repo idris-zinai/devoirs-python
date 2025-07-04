@@ -32,3 +32,6 @@
 
 *Devoir 17 : slice reporter
 
+*Devoir 18 : to do list
+
+
