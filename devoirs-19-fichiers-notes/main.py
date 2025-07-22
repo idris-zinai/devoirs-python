@@ -13,7 +13,7 @@ with open("grades.csv", "r") as f:
 print("=== Contenu du fichier grades.csv ===")
 for line in lines:
     print(line.strip())
-    
+
 results = []
 
 for line in lines:
@@ -24,7 +24,7 @@ for line in lines:
     average = sum(scores) / len(scores)
     status = "Pass" if average >= 50 else "Fail"
     results.append([name, round(average, 2), status])
-    
+
 with open("averages.csv", "w") as f:
     f.write("StudentName,Average,Pass\n")
     for result in results:
