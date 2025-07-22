@@ -34,4 +34,8 @@
 
 *Devoir 18 : to do list
 
+*Devoir 19 : fichier notes
+
+*Devoir 20 : poo
+
 
